@@ -1,0 +1,1 @@
+To run this project, open the repository in Anaconda Navigator, create a new environment, and launch Jupyter Notebook. Then, open the project files and execute the code in the notebook to preprocess the data, train the model, and evaluate the predictions.
